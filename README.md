@@ -62,7 +62,7 @@ Java, Spring Boot, REST APIs, MongoDB, React — and on the DSA side: Arrays, St
 
 ## 🌐 Connect With Me  
 <p align="left">
-<a href="(https://www.linkedin.com/in/pramod-borate-38b286262/)" target="_blank">
+<a href="[(https://www.linkedin.com/in/pramod-borate-38b286262/)]" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </p>
