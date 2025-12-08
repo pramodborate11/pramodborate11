@@ -30,8 +30,8 @@ Java, Spring Boot, REST APIs, MongoDB, React — and on the DSA side: Arrays, St
 
 | Repository | Description |
 | ----------------------------- | ------------------------------------------------------------------------------------ |
-| [BookStore](https://github.com/CoderOmkarD/Bookstore) |React frontend + Node.js+Express.js Backend|
-| [DSA](https://github.com/CoderOmkarD/Data_Structures) |Data Structures|
+| [BookStore]() |React frontend + Node.js+Express.js Backend|
+| [DSA]() |Data Structures|
 ## 🔍 Main Focus
 
 <p align="center">
